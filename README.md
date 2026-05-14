@@ -30,7 +30,7 @@ Private node repositories should contain real operating assumptions, connector c
 The main conceptual boundary is:
 
 ```text
-Trident-Cloud-Lab = canonical public theory
+Trident-Cloud-Lab = canonical public theory and experimentation
 Mindware-Lab = applied commercial product/protocol layer
 Kastel-Stack = anti-capture business operating-system layer
 Trident-Alpha-Lab = private computational trading layer
