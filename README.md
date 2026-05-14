@@ -14,7 +14,7 @@ Public framework ≠ live implementation.
 
 Public repositories should contain reusable code, specifications, templates, schemas, public documentation and sanitised examples.
 
-Private node repositories should contain real operating assumptions, connector configuration, weekly reviews, AH-MAS workflows, Action / Clarify Intent histories and deployment-specific details.
+Private node repositories should contain real operating assumptions, connector configuration, weekly reviews, partnership workflows, Action / Clarify Intent histories and deployment-specific details.
 
 ---
 
@@ -23,7 +23,7 @@ Private node repositories should contain real operating assumptions, connector c
 | Organisation | Role in the ecosystem | Current repository pattern | Ground-truth role |
 |---|---|---|---|
 | `Mindware-Lab` | Commercial product, product websites, app delivery, IQ Mindware protocols and applied Trident-G product work | `trident-g-platform`, `mindware-ground-truth` or `trident-g-ground-truth`, `Zone-Coach`, `IQ-Coach`, product/collaboration repos | Applied product/protocol truth for IQ Mindware products |
-| `Kastel-Stack` | Supervised adaptive operating system, public framework, node template and private business node deployments | `.github`, `kastel-ground-truth`, `kastel-stack`, `kastel-node-template`, private node repos such as `kastel-node-iqmindware` and `kastel-node-alex-AH-MASship` | Anti-capture, human-supervised operating-system truth |
+| `Kastel-Stack` | Supervised adaptive operating system, public framework, node template and private business node deployments | `.github`, `kastel-ground-truth`, `kastel-stack`, `kastel-node-template`, private node repos such as `kastel-node-iqmindware` and `kastel-node-alex-partnership` | Anti-capture, human-supervised operating-system truth |
 | `Trident-Alpha-Lab` | Private computational trading lab for market research, alpha signals, backtesting, paper/live separation, execution-support systems and risk controls | trading strategy repos, market-data pipelines, backtesting notebooks, execution/risk tooling and `trident-alpha-ground-truth` | Private trading research, risk and execution-boundary truth |
 | `Trident-Cloud-Lab` | Public Trident-G theory, open methods, research-facing material and public lab framing | `Trident-G-theory`, `Cloud-Lab-Ground-Truth`, `research-platform` | Canonical public theory and research truth |
 
@@ -178,13 +178,13 @@ Kastel-Stack/
 ├─ kastel-stack                    public framework / reference implementation
 ├─ kastel-node-template            public starter for private Kastel nodes
 ├─ kastel-node-iqmindware          private live IQ Mindware / HRP Lab node
-└─ kastel-node-alex-AH-MASship    private AH-MASship node
+└─ kastel-node-alex-parnership    private partnership node
 ```
 
-Recommended AH-MASship node structure:
+Recommended partnership node structure:
 
 ```text
-kastel-node-alex-AH-MASship
+kastel-node-alex-partnership
 ├─ ventures/
 │  ├─ flow-zone/
 │  └─ cognitive-longevity/
@@ -194,13 +194,13 @@ kastel-node-alex-AH-MASship
 └─ shared-weekly-reviews/
 ```
 
-This pattern can be extended to other AH-MASships:
+This pattern can be extended to other partnerships:
 
 ```text
-kastel-node-[AH-MAS-name]-AH-MASship
+kastel-node-[partnership-name]-partnership
 ```
 
-or, where the venture rather than the AH-MAS is the organising unit:
+or, where the venture rather than the partnership is the organising unit:
 
 ```text
 kastel-node-[venture-name]
@@ -211,15 +211,15 @@ ThinkPad owns:
 - Human review of weekly Action / Clarify Intents.
 - Editing framework docs, policy packs, node templates and public-facing explanatory material.
 - GitHub Projects and issue triage.
-- Decisions involving claims, payments, privacy, AH-MASships, publishing, customer data or strategy.
+- Decisions involving claims, payments, privacy, partnerships, publishing, customer data or strategy.
 - Public/private boundary decisions.
 - Anti-capture, governance and human-supervision wording.
-- AH-MAS governance decisions.
+- parternship governance decisions.
 
 NiPoGi owns:
 
 - The private node runtime for `kastel-node-iqmindware`.
-- Later, selected runtime jobs for `kastel-node-alex-AH-MASship`, if appropriate.
+- Later, selected runtime jobs for `kastel-node-alex-partnership`, if appropriate.
 - Docker services, scheduled jobs, kernel monitor, orchestrator and delayed-review checks.
 - Metric snapshot collection and candidate intent generation.
 - Local service folders such as orchestrator, webhook receiver and consolidation jobs.
@@ -368,7 +368,7 @@ Use the ThinkPad for:
 - Writing, research judgement and public release decisions.
 - AH-MAS discussions and relationship-sensitive material.
 - Broker, exchange and trading-dashboard sessions.
-- Anything involving money, identity, customer data, compliance, claims, AH-MASships, reputation, broker access or live trading authority.
+- Anything involving money, identity, customer data, compliance, claims, partnerships, reputation, broker access or live trading authority.
 
 ---
 
@@ -493,7 +493,7 @@ Top-level structure:
   01 Kastel Framework
   02 Kastel Ground Truth
   03 kastel-node-iqmindware
-  04 kastel-node-alex-AH-MASship
+  04 kastel-node-alex-partnership
   05 Weekly Review / Action Queue
   06 Webhooks and Scheduled Jobs
   07 Private Node Config
@@ -502,10 +502,10 @@ Top-level structure:
   10 NiPoGi Runtime Notes
 ```
 
-For the Alex AH-MASship node:
+For the Alex partnership node:
 
 ```text
-kastel-node-alex-AH-MASship
+kastel-node-alex-partnership
   ventures
     flow-zone
     cognitive-longevity
@@ -714,33 +714,33 @@ product page summaries
 Purpose:
 
 ```text
-Alex AH-MASship ventures
+Alex partnership ventures
 Flow Zone
 Cognitive Longevity
-shared B2B / AH-MAS route
+shared B2B / partnership route
 non-IQ branding
-AH-MASship governance
+partnership governance
 ```
 
 Sources:
 
 ```text
-kastel-node-alex-AH-MASship ground truth
+kastel-node-alex-partnership ground truth
 Flow Zone business model / protocol notes
 Cognitive Longevity business model / protocol notes
-AH-MAS governance note
+parternship governance note
 shared AH-MAS CRM structure
 shared claims boundaries
 B2B pilot offer architecture
-weekly AH-MASship review template
-current AH-MASship roadmap
+weekly partnership review template
+current partnership roadmap
 Trident-G transfer summary
 protocol-and-applications summary
 Kastel state–niche fit summary
 Kastel Action / Clarify Intent summary
 ```
 
-Do not upload the full IQ Mindware commercial strategy unless the specific AH-MASship decision needs it.
+Do not upload the full IQ Mindware commercial strategy unless the specific partnership decision needs it.
 
 ### `KS - Kastel Framework`
 
@@ -1151,7 +1151,7 @@ On the NiPoGi Ubuntu runtime node:
 │  ├─ kastel-stack/
 │  ├─ kastel-node-template/
 │  ├─ kastel-node-iqmindware/
-│  └─ kastel-node-alex-AH-MASship/
+│  └─ kastel-node-alex-parntership/
 │
 ├─ services/
 │  ├─ kastel-orchestrator/
@@ -1163,7 +1163,7 @@ On the NiPoGi Ubuntu runtime node:
 │
 ├─ secrets/
 │  ├─ kastel-node-iqmindware.env
-│  ├─ kastel-node-alex-AH-MASship.env
+│  ├─ kastel-node-alex-partnership.env
 │  ├─ stripe-webhooks.env
 │  ├─ brevo.env
 │  ├─ supabase.env
@@ -1182,7 +1182,7 @@ C:\Users\Mark\repos\
 ├─ kastel-stack\
 ├─ kastel-node-template\
 ├─ kastel-node-iqmindware\
-└─ kastel-node-alex-AH-MASship\
+└─ kastel-node-alex-partnership\
 ```
 
 The ThinkPad remains your:
