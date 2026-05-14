@@ -453,7 +453,7 @@ Use the same four-organisation prefixes across ChatGPT, Claude Pro, browser book
 Top-level structure:
 
 ```text
-00 Inbox - Triage
+
 01 Active This Week
 10 Mindware-Lab - Product and Commercial
 20 Kastel-Stack - Automation and Node Ops
@@ -560,7 +560,6 @@ Use separate projects when the brand, governance, claims, AH-MAS obligations or 
 Recommended structure:
 
 ```text
-00 Inbox - Fast Triage
 01 Active - This Week
 
 ML - Product Cockpit
@@ -580,27 +579,6 @@ TA - Risk and Execution
 TC - Trident-G Theory
 TC - Cloud Lab and Open Methods
 ```
-
-### `00 Inbox - Fast Triage`
-
-Purpose:
-
-```text
-quick sorting
-rough notes
-where-does-this-belong decisions
-repo/project routing
-turn messy notes into tasks
-```
-
-Sources:
-
-```text
-one-page organisation map
-device and GitHub organisation division-of-labour note
-```
-
-Keep this light.
 
 ### `01 Active - This Week`
 
@@ -1079,7 +1057,6 @@ TA - Risk and Execution
 
 ```text
 Trident-G Workspace
-  00 Inbox - Unsorted
   01 Active This Week
 
   10 Mindware-Lab
