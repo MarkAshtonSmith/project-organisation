@@ -121,7 +121,6 @@ Category phrase options:
 
 **Decision, resilience and evolution OS for independent businesses**
 
----
 
 ## Tagline options
 
