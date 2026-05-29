@@ -65,53 +65,86 @@ Flow Zone is not a generic wellness tracker or a flow detector. It is a mind–b
 
 Recommended master UVP:
 
-**Kastel Stack is a human-supervised operating system for independent businesses that want to grow intelligently without surrendering judgement, data truth or strategic control to black-box platforms or autonomous AI.**
+**Kastel Stack is a human-guided adaptive operating system that helps independent businesses function more like living organisms: preserving their core DNA, sensing a changing environment, adapting safely, recovering from shocks and scaling without surrendering judgement or data truth to black-box platforms.**
 
-It helps a business turn signals into better decisions, safe actions, validated scripts and reusable operating intelligence.
+It turns business signals into better decisions, safe experiments, validated scripts and reusable operating intelligence.
 
-Strongest one-line version:
+ Strong one-line versions:
 
-**Kastel Stack helps independent businesses grow without capture by turning live signals into human-gated decisions, safe experiments and banked operating intelligence.**
+**Kastel Stack helps independent businesses grow like adaptive organisms: sensing change, protecting their core DNA, testing safe actions and banking what genuinely works.**
 
-Plain-English small-business version:
+**Kastel Stack is an adaptive organism OS for businesses that need to evolve, scale and stay sovereign in a rapidly changing environment.**
 
-**Kastel is a weekly decision and resilience system for small businesses. It helps you see what matters, choose the next best action, protect the business from avoidable risks, and keep track of what actually works.**
+Small-business version:
 
-More technical version:
+**Kastel is a weekly decision and resilience system for small businesses. It helps you protect what makes the business unique, notice what is changing around you, choose the next best action, reduce avoidable risks and keep track of what actually works.**
 
-**Kastel Stack is an ontology-driven, human-supervised adaptive scaling OS that maps business signals into state–niche fit, routes Action and Clarify Intents through safety gates, observes source-of-truth outcomes, and banks only validated patterns as reusable Gc.**
+Adaptive organism version:
+
+**Kastel Stack models a business as a living organism: DNA, metabolism, sensors, nervous system, immune system, memory and ecology. The result is a human-guided AI operating system that helps the business adapt, learn, recover and scale without becoming dependent on any single platform, vendor or automated agent.**
+
+ Technical version:
+
+**Kastel Stack is an ontology-driven, human-supervised adaptive scaling OS that models a business as a near-critical organism: stable UVP DNA, sensor-based field awareness, state–niche fit inference, gated Action and Clarify Intents, delayed review, shark-tooth resilience and banked reusable Gc.**
 
 Anti-capture / sovereignty version:
 
-**Kastel Stack is an anti-capture business OS for operators who want to use AI, platforms and automation without letting them become the nervous system of the enterprise.**
+**Kastel Stack is an anti-capture business OS for operators who want to use AI, platforms and automation without letting them become the nervous system of the enterprise. It keeps the business adaptive, auditable and replaceable at the component level, while preserving human authority over claims, money, strategy, privacy and risk.**
 
-Network version:
+ Palantir contrast version:
 
-**Kastel Stack is a protocol for mutualistic business networks: each node keeps its own DNA, while validated scripts, proof patterns, risk warnings and field intelligence circulate through a maintained commons.**
+**Unlike centralised enterprise intelligence systems that concentrate data and control, Kastel Stack is designed as a distributed, human-guided adaptive organism model for independent businesses: agile, modular, locally sovereign and built to keep functioning even when tools, platforms or nodes fail.**
+
+ Network version:
+
+**Kastel Stack is a protocol for mutualistic business networks. Each node preserves its own DNA, adapts to its local ecology and contributes validated scripts, proof patterns, risk warnings and field intelligence to a maintained commons.**
 
 Light Node app version:
 
-**Kastel Light is a simple weekly operating app that helps small businesses check their vitals, choose one maintenance action, choose one learning action, review what happened, and bank or share what genuinely worked.**
+**Kastel Light is a simple weekly operating app that helps small businesses run the organism loop: check vitals, protect the core offer, spot environmental changes, choose one maintenance action, choose one learning action, review the result and bank or share what genuinely worked.**
 
 Founder / investor version:
 
-**Kastel Stack creates a new category of business infrastructure: a human-gated adaptive scaling kernel for independent enterprises, starting as a simple decision app and growing into an ontology-driven network of validated operating intelligence.**
+**Kastel Stack creates a new category of adaptive business infrastructure: a human-gated, AI-assisted operating system that starts as a simple weekly decision app and grows into a network of living business nodes, each preserving its DNA while sharing validated operating intelligence.**
 
- Tagline options:
+Category phrase options:
 
-**Grow without capture.**
+**Adaptive organism OS for business**
 
-**Operational intelligence without surrender.**
+**Living business operating system**
 
-**From signals to safe action to reusable business intelligence.**
+**Human-guided adaptive enterprise kernel**
 
-**A decision OS for sovereign small businesses.**
+**AI-assisted business evolution system**
 
-**AI-assisted scaling with human judgement still in command.**
+**Sovereign adaptive scaling stack**
 
-**The adaptive operating system for businesses that want to stay free, legible and scalable.**
+**Decision, resilience and evolution OS for independent businesses**
 
 ---
 
+## Tagline options
+
+**Grow like a living system.**
+
+**Adapt without capture.**
+
+**Preserve the DNA. Evolve the strategy.**
+
+**Business intelligence for adaptive organisms, not captured platforms.**
+
+**A living operating system for sovereign businesses.**
+
+**Sense, decide, adapt, bank what works.**
+
+**Human-guided AI for businesses that need to evolve.**
+
+**From business signals to adaptive operating intelligence.**
+
+**The adaptive organism OS for independent enterprise.**
+
+**Agile, adaptive, robust — without surrendering control.**
+
+ 
 
 
